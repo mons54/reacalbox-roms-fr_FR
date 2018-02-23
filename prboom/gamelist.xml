@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./prboom.wad</path>
+		<name>prboom</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./doom1_shareware.wad</path>
+		<name>Doom</name>
+		<desc>Doom est un reboot de la licence culte d'id Software allant puiser dans le style des deux premiers opus. Vous y incarnez ainsi un Marine obligé de repousser une invasion de démons sur Mars, à l'aide d'un arsenal allant du fusil à pompe au lance-roquette.</desc>
+		<image>./downloaded_images/doom1_shareware-image.png</image>
+		<rating>0.85</rating>
+		<releasedate>19931012T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Shooter / 1st person</genre>
+		<players>1-4</players>
+		<playcount>1</playcount>
+		<lastplayed>20180221T173516</lastplayed>
+	</game>
+</gameList>
