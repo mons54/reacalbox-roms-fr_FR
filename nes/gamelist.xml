@@ -1,0 +1,471 @@
+<?xml version="1.0"?>
+<gameList>
+    <game>
+        <path>./2048 (tsone).nes</path>
+        <name>2048</name>
+        <desc>2048 est un jeu vidéo de type puzzle conçu en mars 2014 par le développeur indépendant italien Gabriele Cirulli et publié en ligne sous licence libre via Github le 9 mars 2014.</desc>
+        <image>./downloaded_images/2048 (tsone)-image.png</image>
+        <releasedate>20140621T000000</releasedate>
+        <developer>tsone</developer>
+        <publisher>tsone</publisher>
+        <genre>Puzzle-Game</genre>
+        <players>1</players>
+    </game>
+    <game>
+        <path>./BladeBuster (High Level Challenge).nes</path>
+        <name>Blade Buster</name>
+        <desc>Blade Buster est un homebrew sur Nes. C'est un caravan stage qui propose deux modes, un de deux minutes et un de cinq minutes. Caravan par définition, le but est de détruire le plus possible mais également de débusquer les bonus cachés et d'obtenir les bonus spéciaux après une destruction totale d'un groupe d'ennemis, d'un ennemi plus résistant avant qu'il ne s'échappe ou même avant qu'il ne se forme...Bref tous les ingrédients des Caravan Shooting sont bien là, et au vu du résultat, tous ceux qui ont passé des heures et des heures à toujours vouloir gratter quelques centaines de points avant la fin du chrono sur PCE peuvent sans hésiter tenter le défi de Blade Buster...</desc>
+        <image>./downloaded_images/BladeBuster (High Level Challenge)-image.png</image>
+        <releasedate>20100101T000000</releasedate>
+        <developer>High Level Challenge</developer>
+        <publisher>High Level Challenge</publisher>
+        <genre>Shoot'em up / Vertical</genre>
+        <players>1</players>
+    </game>
+    <game>
+		<path>./Bubble Bobble (Europe).zip</path>
+		<name>Bubble Bobble</name>
+		<desc>Bubble Bobble sur Nes est un jeu d'action dans lequel on incarne Bub et Bob, deux enfants transformés en dinosaures qui vont devoir sauver leurs fiancées des griffes de Bubbla. Le jeu se déroule sur des tableaux dans lesquels apparaissent des ennemis qu'il faut emprisonner dans des bulles avant de les faire exploser pour récupérer des points, tout en prenant en compte les courants d'air susceptibles de faire dévier les bulles, le tout sur une centaine de niveaux.</desc>
+		<image>./downloaded_images/Bubble Bobble (Europe)-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+    <game>
+        <path>./Castlevania (USA) (Rev A).zip</path>
+        <name>Castlevania 1</name>
+        <desc>Le jeu d'action Castlevania sur Nes vous emmène tout droit dans le château de Dracula. Préparez-vous à vivre la nuit la plus éprouvante de votre vie. Spectres, gobelins, démons, loups-garous et chauves-souris... ces créatures sont tapies dans chaque coin sombre. Plus vous vous enfoncez dans les ténèbres, plus elles sont dangereuses et terrifiantes. Explorez les cavernes pour trouver des armes, vous en aurez besoin car le maître des lieux a soif de sang et il ne vous fera pas de cadeau.</desc>
+        <image>./downloaded_images/Castlevania (USA) (Rev A)-image.jpg</image>
+        <releasedate>19860926T000000</releasedate>
+        <developer>Konami</developer>
+        <publisher>Konami</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>USA</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Castlevania II - Simon&#39;s Quest (Europe).zip</path>
+        <name>Castlevania 2</name>
+        <desc>Dans Castlevania II: Simon's Quest sur Nes, le célèbre chasseur de vampires Simon Belmont doit retrouver et détruire les restes de Dracula afin de lever la terrible malédiction qui pèse sur lui. Castlevania II reprend les éléments qui ont fait le succès de son prédécesseur, en y ajoutant un aspect aventure et une alternance entre le jour et la nuit. Méfiez-vous, les ennemis deviennent plus dangereux lorsque le soleil se couche !</desc>
+        <image>./downloaded_images/Castlevania II - Simon&#39;s Quest (Europe)-image.jpg</image>
+        <releasedate>19870828T000000</releasedate>
+        <developer>Konami</developer>
+        <publisher>Konami</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Castlevania III - Dracula&#39;s Curse (Europe).zip</path>
+        <name>Castlevania 3</name>
+        <desc>Castlevania III : Dracula's Curse est un jeu d'action/plates-formes sur Nes divisé en plusieurs niveaux avec ennemis et pièges à volonté. Vous contrôlez Trevor Belmont, légendaire chasseur de vampires, armé du célèbre fouet Vampire Killer et de diverses attaques secondaires. Le jeu comporte 15 niveaux pour autant de boss.</desc>
+        <image>./downloaded_images/Castlevania III - Dracula&#39;s Curse (Europe)-image.jpg</image>
+        <rating>0.7</rating>
+        <releasedate>19921222T000000</releasedate>
+        <developer>Konami</developer>
+        <publisher>Konami</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Chase (Shiru).nes</path>
+        <name>Chase</name>
+        <desc>Dans le style Pacman, vous incarnez un voleur au visage vert et devant rassemblant toutes les gemmes d'or pour finir le niveau. Il suffit de faire attention de pas vous faire attraper par à la police autour de vous qui augmente au fil des niveaux!</desc>
+        <image>./downloaded_images/Chase (Shiru)-image.png</image>
+        <releasedate>20120101T000000</releasedate>
+        <developer>Shiru</developer>
+        <publisher>Shiru</publisher>
+        <genre>Action / Labyrinth</genre>
+        <players>1</players>
+    </game>
+    <game>
+         <path>./Contra (USA).zip</path>
+         <name>Contra</name>
+        <desc>Probotector, ou Gryzor selon les versions, plus connu sous le nom Contra hors-europe, est un jeu vidéo d'action de type shoot'n jump.</desc>
+        <image>./downloaded_images/Contra (USA)-image.jpg</image>
+        <releasedate>19870220T000000</releasedate>
+        <developer>Konami</developer>
+        <publisher>Konami</publisher>
+        <genre>Action</genre>
+        <players>2</players>
+        <region>USA</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Crystalis (USA).zip</path>
+        <name>Crystalis</name>
+        <desc>Crystalis est un jeu de rôle sur Nes. À la suite d'une grande guerre impliquant le monde entier, l'espèce humaine était quasiment éteinte. Dans le but de ne jamais revivre cet enfer, les derniers survivants ont décidé de construire une tour à partir de laquelle ils peuvent surveiller le monde et repousser les forces du mal. Incarnez un jeune héros mystérieux dont le but est de percer les secrets de cette tour.</desc>
+        <image>./downloaded_images/Crystalis (USA)-image.jpg</image>
+        <releasedate>19900413T000000</releasedate>
+        <developer>SNK</developer>
+        <publisher>SNK</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>USA</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Donkey Kong Classics (USA, Europe).zip</path>
+        <name>Donkey Kong Classics</name>
+        <desc>Donkey Kong et Mario, alors appelé Jumpman, font leur première apparition dans Donkey Kong, qui est l'adaptation sur NES du jeu sorti en 1981 sur borne d'arcade. Jumpman doit délivrer sa petite amie Pauline, capturée par le gorille, en grimpant sur des échelles pour la rejoindre. Attention cependant aux tonneaux que Donkey Kong vous lance. Pour les éviter, Jumpman peut, comme son nom l'indique, sauter par-dessus, mais aussi les détruire en utilisant des marteaux.</desc>
+        <image>./downloaded_images/Donkey Kong Classics (USA, Europe)-image.jpg</image>
+        <releasedate>19881001T000000</releasedate>
+        <developer>Nintendo</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Action</genre>
+        <players>2</players>
+        <region>USA, Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B).zip</path>
+        <name>Dragon Quest 3</name>
+        <desc>Dragon Quest III clôt la première trilogie Dragon Quest sur Nintendo. Le héros n'est autre que l'ancêtre des héros des deux premiers épisodes. Ce troisième volet se situe donc en amont des deux autres. Le Roi vous envoie poursuivre la quête de votre père, le puissant guerrier Ortega, à savoir éliminer Baramos, responsable de l'apparition des monstres dans la région.</desc>
+        <image>./downloaded_images/Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 0A)-image.jpg</image>
+        <releasedate>19910101T000000</releasedate>
+        <developer>Enix</developer>
+        <publisher>Enix</publisher>
+        <genre>Role-Playing</genre>
+        <players>1</players>
+        <region>Japan</region>
+        <romtype>Original</romtype>
+      </game>
+    <game>
+        <path>./Driar (Stefan Adolfsson - David Eriksson).nes</path>
+        <name>Driar</name>
+        <desc>Vous déplacez Driar le dinosaure à travers les niveaux, les complétant en collectant toutes les étoiles. Vous évitez les obstacles et les ennemis qui se déplacent aidé seulement par les boutons saut et sprint.</desc>
+        <image>./downloaded_images/Driar (Stefan Adolfsson - David Eriksson)-image.png</image>
+        <releasedate>20120101T000000</releasedate>
+        <developer>Stefan Adolfsson - David Eriks</developer>
+        <publisher>Stefan Adolfsson - David Eriks</publisher>
+        <genre>Platform</genre>
+        <players>1</players>
+    </game>
+    <game>
+        <path>./Kirby&#39;s Adventure (France).zip</path>
+        <name>Kirby&#39;s Adventure</name>
+        <desc>Kirby's Adventure sur Nes est un jeu de plates-formes dans lequel vous dirigez une petite boule de gomme rose qui a la faculté d'aspirer ses ennemis pour s'approprier leurs pouvoirs. Votre but est de rassembler les fragments du Bâton Etoile volé par le Roi Dadidou pour que les résidents du Pays des Rêves puissent de nouveau dormir sur leurs deux oreilles.</desc>
+        <image>./downloaded_images/Kirby&#39;s Adventure (France)-image.jpg</image>
+        <releasedate>19930326T000000</releasedate>
+        <developer>HAL Laboratory</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Adventure</genre>
+        <players>1</players>
+        <region>France</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Lan Master (Shiru).nes</path>
+        <name>Lan Master</name>
+        <desc>Lan Master est un jeu de puzzle pour NES, inspiré par le jeu NetWalk. Le but est de connecter tous les ordinateurs de chaque niveau. Envoyez les pièces et connectez les fils avant le gong! Il y a cinquante niveaux en tout de difficulté croissante.</desc>
+        <image>./downloaded_images/Lan Master (Shiru)-image.png</image>
+        <developer>Shiru</developer>
+        <publisher>Shiru</publisher>
+        <genre>Puzzle-Game</genre>
+        <players />
+    </game>
+    <game>
+        <path>./Lawn Mower (Shiru).nes</path>
+        <name>Lawn Mower</name>
+        <desc>Lawn Mower est un homebrew, publié par The NES Dump aux Etats-Unispour la NES. Le but de ce jeu est de tondre toute l'herbe avant de manquer d'essence et recueillir des bidons d'essence pour éviter la panne.</desc>
+        <image>./downloaded_images/Lawn Mower (Shiru)-image.png</image>
+        <releasedate>20110101T000000</releasedate>
+        <developer>Shiru</developer>
+        <publisher>Shiru</publisher>
+        <genre>Action</genre>
+    </game>
+    <game>
+        <path>./Mega Man (Europe).zip</path>
+        <name>Mega Man 1</name>
+        <desc>Mega Man sur Nes est un titre d'action qui vous place dans la peau cybernétique d'un androïde parti à la poursuite de six de ses congénères reprogrammés pour faire le mal. Elu par les habitants de la Terre comme sauveur, Mega Man va devoir pénétrer les différents univers de Monsteropolis et se servir des fonctions de son armure pour affronter les humanoïdes du Dr Wily. A chaque monstre vaincu, le héros récupére le pouvoir de son ennemi.</desc>
+        <image>./downloaded_images/Mega Man (Europe)-image.jpg</image>
+        <releasedate>19871217T000000</releasedate>
+        <developer>Capcom</developer>
+        <publisher>Capcom</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Mega Man 2 (Europe).zip</path>
+        <name>Mega Man 2</name>
+        <desc>Le Dr Wily et sa clique de robots maléfiques sont de retour dans Mega Man 2 sur Nes. Cette suite conserve le gameplay du jeu d'origine et voit le petit Mega Man parcourir huit niveaux pour affronter ses huit nouveaux adversaires. Comme dans le premier jeu, le héros récupère les pouvoirs de ses ennemis lorsqu'il arrive à les battre.</desc>
+        <image>./downloaded_images/Mega Man 2 (Europe)-image.jpg</image>
+        <releasedate>19881124T000000</releasedate>
+        <developer>Capcom</developer>
+        <publisher>Capcom</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Mega Man 3 (Europe) (Rev A).zip</path>
+        <name>Mega Man 3</name>
+        <desc>Dans Mega Man 3 sur Nes, le petit robot bleu doit de nouveau partir au combat pour éliminer 8 robots devenus fou. Mega Man doit ainsi récupérer leurs huit cristaux de pouvoir. Dans sa quête, le héros est accompagné de Rush, un chien qui l'aidera à retrouver les pierres convoitées.</desc>
+        <image>./downloaded_images/Mega Man 3 (Europe)-image.jpg</image>
+        <releasedate>19900928T000000</releasedate>
+        <developer>Capcom</developer>
+        <publisher>Capcom</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Mega Man 4 (USA) (Rev A).zip</path>
+        <name>Mega Man 4</name>
+        <desc>Mega Man 4 sur Nes est un jeu d'action plate-forme. Dans ce quatrième volet, le petit Mega Man doit d'abord affronter Dr Cossack qui clame haut et fort être le meilleur constructeur de robots au monde. Le Dr Wily fait aussi une apparition avec son armée de sbires à défaire. Comme toujours, Mega Man peut récupérer les pouvoirs de ses ennemis vaincus.</desc>
+        <image>./downloaded_images/Mega Man 4 (Europe)-image.jpg</image>
+        <releasedate>19911206T000000</releasedate>
+        <developer>Capcom</developer>
+        <publisher>Capcom</publisher>
+        <genre>Action</genre>
+        <region>USA</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Mega Man 5 (Europe).zip</path>
+        <name>Mega Man 5</name>
+        <desc>Mega Man repart à l'assaut dans Mega Man 5 sur Nes. Ce jeu d'action plate-forme vous demandera de sauver le Dr Light des mains de Proto Man. Aidé par le Dr Cossack, vous pourrez compter sur de nouveaux pouvoirs pour votre armure.</desc>
+        <image>./downloaded_images/Mega Man 5 (Europe)-image.jpg</image>
+        <releasedate>19921204T000000</releasedate>
+        <developer>Capcom</developer>
+        <publisher>Capcom</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Mega Man 6 (USA).zip</path>
+        <name>Mega Man 6</name>
+        <desc>Chargé d'assurer la sécurité d'un concours de robots, Mega Man se retrouve une nouvelle fois à devoir affronter de puissants rivaux à la solde de son ennemi de toujours, le Dr Wily. Mega Man 6 est un jeu d'action plate-forme dans lequel vous pouvez profiter de nouveaux pouvoirs à chaque robot éliminé.</desc>
+        <image>./downloaded_images/Mega Man 6 (USA)-image.jpg</image>
+        <releasedate>19921006T000000</releasedate>
+        <developer>Capcom</developer>
+        <publisher>Capcom</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>USA</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Metal Gear (Europe).zip</path>
+        <name>Metal Gear</name>
+        <desc>Metal Gear sur NES est un précurseur du jeu d'infiltration. Le héros, Solid Snake, doit infiltrer Outer Heaven, une base où est construit une nouvelle arme, le Metal Gear. Le jeu mêle un scénario complet à des phases de jeu d'action et d'infiltration. Divers Boss, pièges, armes et équipements parsèment le jeu offrant au joueur une aventure riche et variée.</desc>
+        <image>./downloaded_images/Metal Gear (Europe)-image.jpg</image>
+        <releasedate>19870707T000000</releasedate>
+        <developer>Konami Industry Co. Ltd.</developer>
+        <publisher>Konami Industry Co. Ltd.</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Metroid (Europe).zip</path>
+        <name>Metroid</name>
+        <desc>Découvrez les premières aventures de Samus Aran, chasseuse de primes intergalactique, dans Metroid sur NES. Engoncée dans votre armure, combattez des aliens dans ce jeu d'action se déroulant sur un plan horizontal. Transformez-vous à tout moment en boule morphing pour traverser des passages étroits. Infiltrez le complexe ennemi et détruisez leur leader : Mother Brain.</desc>
+        <image>./downloaded_images/Metroid (Europe)-image.jpg</image>
+        <releasedate>19860806T000000</releasedate>
+        <developer>Nintendo</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Mike Tyson&#39;s Punch-Out!! (Europe) (Rev A).zip</path>
+        <name>Mike Tyson&#39;s Punch-Out!!</name>
+        <desc>Punch-Out!! sur NES vous permet d'enfiler les gants d'un jeune boxeur qui doit montrer de quoi il est capable en montant sur le ring pour affronter une série d'adversaires charismatiques venus du monde entier. Le combat final vous fera affronter le poids lourd Mike Tyson !</desc>
+        <image>./downloaded_images/Mike Tyson&#39;s Punch-Out!! (Europe) (Rev A)-image.jpg</image>
+        <releasedate>19871001T000000</releasedate>
+        <developer>Nintendo</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Fighting</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./R.C. Pro-Am (Europe) (Rev A).zip</path>
+        <name>R.C. Pro-Am</name>
+        <desc>R.C. Pro-Am vous propose de diriger votre voiture radio-commandée dans ce jeu de courses sur Nes. Pour gagner, vous devrez venir à bout de vos trois adversaires sur 32 pistes tout en évitant les obstacles sur votre route.</desc>
+        <image>./downloaded_images/R.C. Pro-Am (Europe) (Rev A)-image.jpg</image>
+        <releasedate>19881231T000000</releasedate>
+        <developer>RARE</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Racing</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Sir Ababol (2013)(The Mojon Twins)[!].nes</path>
+        <name>Sir Ababol</name>
+        <desc>Pour progresser dans votre aventure, vous devez trouver un ensemble de clés que vous pouvez utiliser pour ouvrir des portes et accéder à d'autres lieux...</desc>
+        <image>./downloaded_images/Sir Ababol (2013)(The Mojon Twins)[!]-image.png</image>
+        <releasedate>20130101T000000</releasedate>
+        <developer>Shiru</developer>
+        <publisher>The Mojon Twins</publisher>
+        <genre>Platform</genre>
+    </game>
+    <game>
+        <path>./Steemerz v02 (fauxgame) (FR).nes</path>
+        <name>Steemerz</name>
+        <desc>"Essayez de grimper au sommet en lançant des banderoles et en escaladant. En remontant, il faut faire attention aux différents clowns qui lancent des tartes, des balles rebondissantes et qui brûlent des bougies, parce que si ils vous attrapent vous mourrez à petit feu." Ce sont les ordres qui vous ont été donnés, par l'officier Joe.</desc>
+        <image>./downloaded_images/Steemerz v02 (fauxgame) (FR)-image.png</image>
+        <releasedate>20120101T000000</releasedate>
+        <developer>Faux Game</developer>
+        <publisher>Faux Game</publisher>
+        <genre>Platform</genre>
+    </game>
+    <game>
+        <path>./Super Mario Bros. (Europe) (Rev A).zip</path>
+        <name>Super Mario Bros. 1</name>
+        <desc>Super Mario Bros. sur Nes est un jeu de plates-formes mettant en scène le désormais célèbre plombier à moustache et salopette rouge. Traversez de nombreux niveaux, sautez sur vos ennemis pour les éliminer, ramassez des champignons pour grandir et des fleurs pour cracher du feu. Affrontez le méchant Bowser et ses sbires afin de délivrer la délicieuse princesse Peach.</desc>
+        <image>./downloaded_images/Super Mario Bros. (Europe) (Rev A)-image.jpg</image>
+        <releasedate>19850913T000000</releasedate>
+        <developer>Nintendo</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Adventure</genre>
+        <players>2</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Super Mario Bros. 2 (USA) (Rev A).zip</path>
+        <name>Super Mario Bros. 2</name>
+        <desc>Super Mario Bros. 2 sur Nes marque un tournant dans la série de ce mythique jeu de plates-formes puisqu'il introduit la possibilité de choisir son personnage. Incarnez ainsi le célèbre tandem de plombiers moustachus, la princesse Peach ou bien son compagnon Toad dans une aventure magique. Vous devez sauver les habitants du monde des rêves des griffes de l'ignoble Wart, le tyran batracien.</desc>
+        <image>./downloaded_images/Super Mario Bros. 2 (USA) (Rev A)-image.jpg</image>
+        <releasedate>19881001T000000</releasedate>
+        <developer>Nintendo</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>USA</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Super Mario Bros. 3 (USA) (Rev A).zip</path>
+        <name>Super Mario Bros. 3</name>
+        <desc>Retrouvez le célèbre plombier à moustaches et salopette dans Super Mario Bros. 3 sur Nes. Bondissez de part en part pour sauver le Royaume Champignon et utilisez les nouveaux pouvoirs de Mario : volez grâce au costume de raton laveur, nagez avec celui de la grenouille, crachez des boules de feu avec la fleur et devenez invincible avec le tanuki ! Parcourez huit mondes gigantesques, seul ou à deux, en coopération ou en affrontement, et retrouvez Bowser pour lui faire payer son énième forfait.</desc>
+        <image>./downloaded_images/Super Mario Bros. 3 (USA) (Rev A)-image.jpg</image>
+        <releasedate>19881023T000000</releasedate>
+        <developer>Nintendo EAD</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Adventure</genre>
+        <players>2</players>
+        <region>USA</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Tetris (Europe).zip</path>
+        <name>Tetris</name>
+        <desc> Tetris sur Nes est le célèbre puzzle-game dans lequel vous devez empiler des briques afin de constituer des lignes qui s'effaceront au fur et à mesure de votre progression. La difficulté augmente au fil de votre avancée. Cette version de Nintendo propose deux modes : le mode 1 où il faut assemblez les blocs à l'infini et le mode B où il faut simplement réaliser 25 lignes.</desc>
+        <image>./downloaded_images/Tetris (Europe)-image.jpg</image>
+        <releasedate>19880715T000000</releasedate>
+        <developer>Bullet-Proof Software</developer>
+        <publisher>Bullet-Proof Software</publisher>
+        <genre>Puzzle</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Teenage Mutant Hero Turtles (Europe).zip</path>
+        <name>Tortues Ninja 1</name>
+        <desc>Teenage Mutant Ninja Turtles sur Nes est un jeu d'action dans lequel vous dirigez les fameuses tortues ninja Donatello, Michelangelo, Leonardo et Rapahël. Vous pouvez alterner quand vous voulez pour profiter des armes et caractéristiques de chacune et ainsi défaire le maléfique Schredder.</desc>
+        <image>./downloaded_images/Teenage Mutant Hero Turtles (Europe)-image.jpg</image>
+        <releasedate>19891231T000000</releasedate>
+        <developer>Konami</developer>
+        <publisher>Ultra Games</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Teenage Mutant Hero Turtles II - The Arcade Game (Europe).zip</path>
+        <name>Tortues Ninja 2</name>
+        <desc>TMNT 2 : The Arcade Game est un jeu d'action sur Nes inspiré de la franchise des Tortues Ninja. L'intrigue place nos 4 héros face à Shredder et ses sbires ayant enlevé la jeune reporter April O'Neil. Tout au long du jeu, vous combattrez des hordes d'ennemis mais également des boss connus comme le diabolique Krang. Cette version-ci contient des niveaux supplémentaires, de nouveaux boss ainsi que de nouvelles musiques.</desc>
+        <image>./downloaded_images/Teenage Mutant Hero Turtles II - The Arcade Game (Europe)-image.jpg</image>
+        <releasedate>19901201T000000</releasedate>
+        <developer>Konami</developer>
+        <publisher>Ultra</publisher>
+        <genre>Action</genre>
+        <players>2</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).zip</path>
+        <name>Tortues Ninja 3</name>
+        <desc>Le jeu d'action TMNT 3 : The Manhattan Project est la suite du jeu TMNT 2 : The Arcade Game, sorti également sur Nes en 1989. La reporter April O'Neil a une nouvelle fois été enlevée par l'infâme Shredder, mais ce dernier révèle aux Tortues Ninja qu'il a transformé Manhattan en île flottante. A vous de l'arrêter en repoussant les assauts ennemis des 8 niveaux du jeu et de sauver April !</desc>
+        <image>./downloaded_images/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)-image.jpg</image>
+        <releasedate>19920201T000000</releasedate>
+        <developer>Konami</developer>
+        <publisher>Konami</publisher>
+        <genre>Action</genre>
+        <players>2</players>
+        <region>USA</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Legend of Zelda, The (Europe) (Rev A).zip</path>
+        <name>The Legend of Zelda</name>
+        <desc>The Legend of Zelda sur Nes vous présente la première aventure du jeune Link. Débutez votre périple dans le fantastique monde d'Hyrule. A l'aide de votre épée, de votre bouclier et de votre intelligence, retrouvez les huit fragments de la Triforce et sauvez la princesse Zelda.</desc>
+        <image>./downloaded_images/Legend of Zelda, The (Europe) (Rev A)-image.jpg</image>
+        <releasedate>19860221T000000</releasedate>
+        <developer>Nintendo</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Tiger Jenny (Ludosity).nes</path>
+        <name>Tiger Jenny</name>
+        <desc>Tiger Jenny est un jeu NES situé dans le même univers que "Ittle Dew", il se déroule il y a un millier d'années. Frayez-vous un chemin à travers la forêt pour vous venger de la Sorcière Turnip qui habite son château.</desc>
+        <image>./downloaded_images/Tiger Jenny (Ludosity)-image.png</image>
+        <releasedate>20140101T000000</releasedate>
+        <developer>Ludosity</developer>
+        <publisher>Ludosity</publisher>
+        <genre>Platform</genre>
+    </game>
+    <game>
+        <path>./Zelda II - The Adventure of Link (Europe) (Rev B).zip</path>
+        <name>Zelda II - The Adventure of Link</name>
+        <desc>Zelda II : The Adventure of Link sur Nes nous fait retrouver les bottes du héros d'Hyrule, le grand Link. Partez à la recherche de la Triforce pour réveiller la princesse Zelda, plongée dans un sommeil profond, tandis que les sbires de Ganon tentent de ressusciter leur maître. Le titre propose une carte du monde, une vue de côté permettant un défilement horizontal et introduit des éléments qui deviendront cultes dans la suite de la série.</desc>
+        <image>./downloaded_images/Zelda II - The Adventure of Link (Europe) (Rev B)-image.jpg</image>
+        <releasedate>19880926T000000</releasedate>
+        <developer>Nintendo</developer>
+        <publisher>Nintendo</publisher>
+        <genre>Action</genre>
+        <players>1</players>
+        <region>Europe</region>
+        <romtype>Original</romtype>
+    </game>
+    <game>
+        <path>./Zooming Secretary (Shiru).nes</path>
+        <name>Zooming Secretary</name>
+        <desc>Jouer le rôle d'une secrétaire dans sa période d'essai, vous devez vous faire une place dans une semaine de plus en plus difficile, sans être licencié pour ne pas avoir répondu aux appels à temps. Chaque niveau d'écran se compose de plates-formes et d'escaliers sur lesquels sont placés un certain nombre de téléphones et classeurs. Quand un téléphone sonne, le sujet de l'appel est représenté par un symbole au-dessus du combiné - et votre tâche est de courir vers le classeur correspondant, puis de répondre à l'appel.</desc>
+        <image>./downloaded_images/Zooming Secretary (Shiru)-image.png</image>
+        <releasedate>20110101T000000</releasedate>
+        <developer>Shiru</developer>
+        <publisher>Shiru</publisher>
+        <genre>Action</genre>
+    </game>
+</gameList>

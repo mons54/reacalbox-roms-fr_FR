@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gameList>
+    <game>
+        <path>./dino.zip</path>
+        <name>Cadillacs and Dinosaurs</name>
+        <desc>Cadillacs and Dinosaurs est un jeu vidéo à scrolling horizontal de type beat them all développé et édité par Capcom, sorti uniquement en arcade sur CP System en février 1993.</desc>
+        <image>./images/dino.png</image>
+        <developer>Capcom</developer>
+        <publisher>Capcom</publisher>
+        <genre>Beat them all</genre>
+        <players>3</players>
+    </game>
+    <game>
+        <path>./simpsons.zip</path>
+        <name>The Simpsons</name>
+        <desc>The Simpsons: Arcade Game est un jeu vidéo de type beat them all développé et commercialisé par Konami en 1991 sur borne d'arcade. Le jeu est basé sur la série Les Simpson.</desc>
+        <image>./images/simpsons.png</image>
+        <developer>Konami</developer>
+        <publisher>Konami</publisher>
+        <genre>Beat them all</genre>
+        <players>4</players>
+    </game>
+</gameList>

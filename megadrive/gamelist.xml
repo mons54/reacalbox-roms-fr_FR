@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="157" source="theGamesDB.net">
+    	<path>./Aladdin (Europe).zip</path>
+    	<name>Aladdin</name>
+    	<desc>Reprenant les différentes séquences du film d'animation de Disney, Aladdin sur Megadrive permet de retrouver tous les personnages de l'histoire. Ce jeu de plates-formes propose effectivement de suivre Aladdin des rues d'Agrabah aux couloirs du palais royal en passant bien sûr par la célèbre caverne aux merveilles. Le Génie est aussi de la partie et permet de gagner des bonus.</desc>
+    	<image>./downloaded_images/Aladdin (Europe)-image.jpg</image>
+	    <releasedate>19931126T000000</releasedate>
+	    <developer>Disney Interactive Studios</developer>
+	    <publisher>Virgin Interactive</publisher>
+	    <genre>Action</genre>
+	    <players>1</players>
+	    <region>Europe</region>
+	    <romtype>Original</romtype>
+  	</game>
+	<game id="2280" source="theGamesDB.net">
+		<path>./Mega Bomberman (Europe).zip</path>
+		<name>Mega Bomberman</name>
+		<desc>Mega Bomberman est un jeu d'action sur Megadrive. Dans le mode solo à vous de distiller vos bombes afin de libérer le passage, détruire vos ennemis et récupérer les bonus qui ornent les niveaux. Différents types de kangourous pourront vous prêter main forte sur certains tableaux et le mode multijoueurs permet de faire son choix parmi neuf personnages différents.</desc>
+		<image>./downloaded_images/Mega Bomberman (Europe)-image.jpg</image>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game id="19506" source="theGamesDB.net">
+	    <path>./Micro Machines 2 - Turbo Tournament (Europe) (J-Cart).zip</path>
+	    <name>Micro Machines 2</name>
+	    <desc>MicroMachines 2 : Turbo Tournament est un jeu de courses sur Megadrive. La cartouche du jeu met à votre disposition deux ports manettes supplémentaires, ce qui permet à huit joueurs de s'affronter sur le même écran (deux par manette). Le jeu vous met aux volants des fameux bolides miniatures et le but est d'arriver premier en prenant soin de distancer les autres joueurs pour leur faire perdre des points.</desc>
+	    <image>./downloaded_images/Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)-image.jpg</image>
+	    <releasedate>19941114T000000</releasedate>
+	    <developer>Supersonic Software</developer>
+	    <publisher>Codemasters</publisher>
+	    <genre>Racing</genre>
+	    <players>4</players>
+	    <region>Europe</region>
+	    <romtype>Original</romtype>
+  	</game>
+  	<game id="4541" source="theGamesDB.net">
+	    <path>./OutRun (USA, Europe).zip</path>
+	    <name>OutRun</name>
+	    <desc>OutRun sur Megadrive est l'adaptation de la célébrissime version arcade. Vous êtes au volant d'une rutilante Ferrari Testarossa, avec à vos côtés une jolie blonde que vous tenterez d'épater grâce à vos talents de pilote.</desc>
+	    <image>./downloaded_images/OutRun (USA, Europe)-image.jpg</image>
+	    <releasedate>19910101T000000</releasedate>
+	    <developer>Sanritsu</developer>
+	    <publisher>Sega</publisher>
+	    <genre>Racing</genre>
+	    <players>1</players>
+	    <region>USA, Europe</region>
+	    <romtype>Original</romtype>
+  	</game>
+  	<game id="114" source="theGamesDB.net">
+	    <path>./Sonic The Hedgehog (USA, Europe).zip</path>
+	    <name>Sonic The Hedgehog</name>
+	    <desc>Propulsez Sonic, le hérisson bleu le plus rapide sur Terre, à travers d'époustouflants loopings et de vertigineux plongeons, en franchissant de la lave bouillonnante, des cascades et d'innombrables obstacles. Ramassez des rings et arrêtez le Dr Eggman dans ses plans pour la domination du monde dans Sonic The Hedgehog sur Megadrive.</desc>
+	    <image>./downloaded_images/Sonic The Hedgehog (USA, Europe)-image.jpg</image>
+	    <releasedate>19910623T000000</releasedate>
+	    <developer>Sonic Team</developer>
+	    <publisher>Sega</publisher>
+	    <genre>Action</genre>
+	    <players>1</players>
+	    <region>USA, Europe</region>
+	    <romtype>Original</romtype>
+  	</game>
+  	<game id="694" source="theGamesDB.net">
+	    <path>./Streets of Rage 2 (USA).zip</path>
+	    <name>Streets of Rage 2</name>
+	    <desc>Un an après avoir défait Mr. X, les policiers Axel, Blaze et Adam ont repris le cours normal de leur existence, jusqu'à ce que ce dernier ne soit enlevé. Tel est le point de départ de Streets of Rage 2 sur Megadrive. Le jeu demeure un beat'em all classique, mais s'enrichit grandement en termes de jouabilité par rapport à son prédécesseur, ainsi qu'en termes d'interactivité des environnements.</desc>
+	    <image>./downloaded_images/Streets of Rage 2 (USA)-image.jpg</image>
+	    <rating>0.45</rating>
+	    <releasedate>19921220T000000</releasedate>
+	    <developer>Sega</developer>
+	    <publisher>Sega</publisher>
+	    <genre>Action</genre>
+	    <players>2</players>
+	    <region>USA</region>
+	    <romtype>Original</romtype>
+  	</game>
+</gameList>

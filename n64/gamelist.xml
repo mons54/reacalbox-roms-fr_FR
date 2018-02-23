@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="160" source="theGamesDB.net">
+		<path>./007 - GoldenEye (Europe).n64</path>
+		<name>007 - GoldenEye</name>
+		<desc>GoldenEye 007 est un jeu de tir à la première personne sur Nintendo 64. Votre nom est Bond, James Bond. Vous êtes désigné pour couvrir les opérations en relation avec le satellite armé Golden Eye. Votre mission débute dans un complexe russe et s'étoffera tout au long de 12 environnements variés.</desc>
+		<image>./downloaded_images/007 - GoldenEye (Europe)-image.jpg</image>
+		<releasedate>19970823T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+    </game>
+    <game id="250" source="theGamesDB.net">
+		<path>./Donkey Kong 64 (Europe) (En,Fr,De,Es).n64</path>
+		<name>Donkey Kong 64</name>
+		<desc>Donkey Kong 64 est un jeu de plates-formes sorti sur Nintendo 64. Tout le clan des kongs est à nouveau en péril à cause de K Rool qui menace leur île avec une nouvelle arme. Incarnez 5 personnages différents dans ce jeu tout en trois dimensions.</desc>
+		<image>./downloaded_images/Donkey Kong 64 (Europe) (En,Fr,De,Es)-image.jpg</image>
+		<releasedate>19991124T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game id="266" source="theGamesDB.net">
+		<path>./Mario Kart 64 (Europe) (Rev A).n64</path>
+		<name>Mario Kart 64</name>
+		<desc>Mario Kart 64 sur Nintendo 64 est un jeu de courses qui prend place dans l'univers du plombier moustachu. Participez à des courses folles où tout est permis pour remporter la première place. Ramassez des armes sur le terrain pour les lancer à la face de vos poursuivants ou pour booster votre propre kart.</desc>
+		<image>./downloaded_images/Mario Kart 64 (Europe) (Rev A)-image.jpg</image>
+		<releasedate>19961214T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+    </game>
+	<game id="216" source="theGamesDB.net">
+		<path>./Super Mario 64 (Europe) (En,Fr,De).n64</path>
+		<name>Super Mario 64</name>
+		<desc>Super Mario 64 sur Nintendo 64 est le premier jeu 3D mettant en scène le plombier. Explorez et découvrez les secrets du château de Peach, trouvez les 120 étoiles et battez Bowser une nouvelle fois. Profitez aussi d'une nouvelle panoplie de mouvements pour le plombier à moustache.Super Mario 64 sur Nintendo 64 est le premier jeu 3D mettant en scène le plombier. Explorez et découvrez les secrets du château de Peach, trouvez les 120 étoiles et battez Bowser une nouvelle fois. Profitez aussi d'une nouvelle panoplie de mouvements pour le plombier à moustache.</desc>
+		<image>./downloaded_images/Super Mario 64 (Europe) (En,Fr,De)-image.jpg</image>
+		<rating>0.7482800000000001</rating>
+		<releasedate>19960623T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game id="161" source="theGamesDB.net">
+		<path>./Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A).n64</path>
+		<name>The Legend of Zelda : Ocarina of Time</name>
+		<desc>The Legend of Zelda : Ocarina of Time est un jeu d'action/aventure sur N64. C'est la première fois que Link évolue dans un univers tout en 3D. Le héros commence son aventure adolescent dans la forêt d'Hyrule en compagnie d'autres enfants. Mais, un terrible danger guette ce petit monde féérique : des forces obscures veulent s'emparer de la triforce sacrée, à l'origine de l'équilibre d'Hyrule. A vous de les repousser, pour le bien de la princesse Zelda !</desc>
+		<image>./downloaded_images/Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A)-image.jpg</image>
+		<rating>0.81707</rating>
+		<releasedate>19981121T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+    </game>
+</gameList>

@@ -1,0 +1,498 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Aladdin (France).zip</path>
+		<name>Aladdin</name>
+		<desc>Reprenant les différentes séquences du film d'animation de Disney, Aladdin sur Super Nintendo permet de retrouver tous les personnages de l'histoire. Ce jeu de plates-formes propose effectivement de suivre Aladdin des rues d'Agrabah aux couloirs du palais royal en passant bien sûr par la célèbre caverne aux merveilles. Le Génie est aussi de la partie et permet de gagner des bonus.</desc>
+		<image>./downloaded_images/Aladdin.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Asterix &amp; Obelix (Europe) (En,Fr,De,Es).zip</path>
+		<name>Asterix &amp; Obelix</name>
+		<desc>Astérix &amp; Obélix sur Super Nintendo, est un jeu d'aventure qui plonge le joueur dans l'univers des Gaulois, adapté des bandes dessinées de René Goscinny et Albert Uderzo. Il faut parcourir les différents niveaux en ramassant le plus de pièces et d'étoiles possible, tout en envoyant les Romains dans le ciel. L'expérience peut se partager à deux, chacun des joueurs incarnant soit Astérix, soit Obélix.</desc>
+		<image>./downloaded_images/Asterix &amp; Obelix.jpg</image>
+		<releasedate>19950928T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Aventure</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Asterix (Europe) (En,Fr,De,Es).zip</path>
+		<name>Asterix</name>
+		<desc>Astérix est un jeu d'action sorti sur Super Nintendo. Alors que les Romains essayent encore et toujours de capturer les irréductibles Gaulois, et vous, incarnant les héros de la bande dessinée, devrez vous gaver de potion magique et calmer les ardeurs des légions ennemies.</desc>
+		<image>./downloaded_images/Asterix.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Batman Returns (Europe).zip</path>
+		<name>Batman Returns</name>
+		<desc>Dans Batman Returns sur Super Nintendo, vous défendez Gotham City et tentez de faire échouer les plans du Pingouin et ses hommes. Vous évoluez sur terre ainsi que dans les airs grâce aux gadgets que vous assignez à la ceinture de Batman.</desc>
+		<image>./downloaded_images/Batman Returns.jpg</image>
+		<releasedate>19930331T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (USA) (Rev 2).zip</path>
+		<name>Donkey Kong Country 1</name>
+		<desc>Dans Donkey Kong Country sur Super Nintendo, vous incarnez le célèbre gorille de Nintendo. Le King K. Rool a volé les bananes de Donkey qui décide alors de partir à sa recherche pour les récupérer. Deux personnages sont jouables, Donkey est plus grand et plus fort, alors que Diddy est plus rapide. Il est possible de jouer à deux, soit chacun son tour, soit en équipe. Des animaux vous aideront à franchir certains niveaux et à vaincre les Kremlings.</desc>
+		<image>./downloaded_images/Donkey Kong Country 1.jpg</image>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<region>US</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1).zip</path>
+		<name>Donkey Kong Country 2</name>
+		<desc>Donkey Kong Country 2 : Diddy's Kong Quest sur Super Nintendo est un jeu d'action/plates-formes bondissant. Guidez Diddy ou Dixie Kong à travers huit mondes d'action délirants sur l'Ile Crocodile. Mais attention aux Kremlings ! Découvrez des secrets, apprenez de nouvelles techniques, rencontrez d'autres membres du clan Kong et contrôlez de nouveaux amis animaux, comme Squitter l'araignée ou Rattly le serpent à sonnette.</desc>
+		<image>./downloaded_images/Donkey Kong Country 2.jpg</image>
+		<releasedate>19951120T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<region>US</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).zip</path>
+		<name>Donkey Kong Country 3</name>
+		<desc>Les Kremlings ont frappé fort cette fois en kidnappant Donkey et Diddy Kong ! Dixie et Kiddy doivent donc s'allier dans Donkey Kong Country 3 : Dixie Kong's Double Trouble, dernier volet sur Super Nes de la trilogie du gorille à cravate. Sautez de branches en rochers pour retrouver vos amis, traquez les oiseaux-bananes, faites-vous aider par d'autres animaux, coopérez à deux joueurs et défaites Kaos, le nouveau maître Kremling.</desc>
+		<image>./downloaded_images/Donkey Kong Country 3.jpg</image>
+		<releasedate>19961122T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<region>US</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Earthworm Jim (Europe).zip</path>
+		<name>Earthworm Jim 1</name>
+		<desc>Earthworm Jim sur Super Nintendo met en scène Jim, un ver de terre ayant hérité d'un costume aux pouvoirs extraordinaires. Dans ce classique parmi les jeux de plates-formes, le joueur dispose d'un pistolet laser comme moyen de défense. Jim a aussi une large palette de mouvements pour parvenir à franchir des niveaux variés et colorés.</desc>
+		<image>./downloaded_images/Earthworm Jim 1.jpg</image>
+		<releasedate>19940802T000000</releasedate>
+		<developer>Shiny Entertainment, Inc.</developer>
+		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Earthworm Jim 2 (Europe).zip</path>
+		<name>Earthworm Jim 2</name>
+		<desc>Earthworm Jim 2 sur Super Nintendo est la suite des aventures du ver de terre extraordinaire. Jim renfile son costume aux pouvoirs magiques pour parcourir les niveaux d'action/plates-formes du titre. Le lombric dispose cette fois-ci de cinq types de munitions différentes pour charger son pistolet. Son habileté pour la course et les sauts lui permettent aussi d'atteindre des endroits gigantesques aux yeux d'un tout petit ver de terre.</desc>
+		<image>./downloaded_images/Earthworm Jim 2.jpg</image>
+		<releasedate>19960125T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Playmates</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Final Fight 3 (Europe).zip</path>
+		<name>Final Fight 3</name>
+		<desc>Dans Final Fight 3 sur Super Nintendo, Guy et Mike Haggar vont tenter d'en finir une fois pour toutes avec Skull Cross, le boss du gang Mad Gear détruit dans le précédent épisode. Ils sont aidés de Dean et Lucia, deux nouveaux venus dans l'aventure. Il est toujours possible de jouer seul ou à deux. En jouant seul, un deuxième personnage peut être contrôlé par l'ordinateur pour vous aider.</desc>
+		<image>./downloaded_images/Final Fight 3.jpg</image>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./International Superstar Soccer Deluxe (Europe).zip</path>
+		<name>International Superstar Soccer Deluxe</name>
+		<desc>International Superstar Soccer Deluxe est la version revue de International Superstar Soccer sur Super Nintendo. Outre l'amélioration des menus et des animations, trente-six équipes nationales sont désormais jouables. Après en avoir choisi une, vous pouvez participer à un championnat international ou à la Coupe du Monde, à condition de passer les qualifications. A noter que le mode match simple permet de faire des parties entre quatre joueurs différents grâce à un adaptateur.</desc>
+		<image>./downloaded_images/International Superstar Soccer Deluxe.jpg</image>
+		<releasedate>19950601T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Jurassic Park (France).zip</path>
+		<name>Jurassic Park</name>
+		<desc>Jurassic Park est l'adaptation sur Super Nintendo du film réalisé par Steven Spielberg en 1993. Vous incarnez le docteur Alan Grant, le paléontologue héros du film. Vous devez tout d'abord secourir Tim et Alex en les ramenant à leur grand-père Hammond. Il faudra ensuite retourner au milieu des dinosaures afin de rétablir le courant pour pouvoir appeler les secours.</desc>
+		<image>./downloaded_images/Jurassic Park.jpg</image>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>France</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Killer Instinct (USA) (Rev 1).zip</path>
+		<name>Killer Instinct</name>
+		<desc>Killer Instinct est un jeu de combat sur Super Nintendo. La société Ultratech, spécialiste dans la fabrication et la vente d'armes, organise un grand tournoi à mort entre plusieurs candidats pour tester ses armes. Vous avez le choix parmi 11 combattants pour tenter de gagner le tournoi. Chacun d'entre eux possède une grande variété de coups et contrairement à la plupart des jeux de combats, les matches se disputent en un seul round.</desc>
+		<image>./downloaded_images/Killer Instinct.jpg</image>
+		<releasedate>19950801T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Kirby's Fun Pak (Europe).zip</path>
+		<name>Kirby's Fun Pak</name>
+		<desc>Kirby, l'une des mascottes de Nintendo, fait son retour sur Super Nintendo dans Kirby's Super Star. Ce titre est une compilation de huit jeux qu'il faut débloquer progressivement. Chacun d'entre eux est un niveau de plates-formes proposant une manière de jouer différente. Pour parcourir cet univers, Kirby utilise ses capacités spéciales et avale ses adversaires pour s'approprier leurs compétences. A deux, le jeu se transforme en party-game.</desc>
+		<image>./downloaded_images/Kirbys Fun Pak.jpg</image>
+		<releasedate>19960920T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Adventures of Batman &amp; Robin, The (Europe).zip</path>
+		<name>Les aventures de Batman &amp; Robin</name>
+		<desc>Les aventures de Batman &amp; Robin est un jeu d'action/plates-formes sur Super Nintendo dans lequel vous dirigez le justicier masqué de Gotham dans une série de missions au cours desquelles vous rencontrerez les plus grands ennemis de Batman. A vous de défaire leurs plans en combattant leurs sbires à l'aide de vos gadgets.</desc>
+		<image>./downloaded_images/Adventures of Batman &amp; Robin.jpg</image>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Mega Man X (USA) (Rev 1).zip</path>
+		<name>Mega Man X1</name>
+		<desc>Bien des années après les événements de la première série Mega Man, des fouilles sont effectuées et les robots retrouvés. Ces derniers retrouvent leur caractère violent obligeant le nouveau Mega Man X à tout faire pour les arrêter. Le jeu sur Super Nes reprend les mécaniques du début en instaurant des niveaux d'action plates-formes qui se terminent par des boss à combattre.</desc>
+		<image>./downloaded_images/Mega Man X.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Mega Man X3 (Europe).zip</path>
+		<name>Mega Man X3</name>
+		<desc>Après la défaite des Mavericks dans les épisodes précédents, les robots vivent en paix avec les humains. Mais les Mavericks d'origine reviennent à la charge et menacent l'équilibre. Mega Man et Zero sont rappelés sur le devant de la scène pour contrer la nouvelle attaque. Mega Man X3 sur Super Nes propose 8 niveaux d'action plates-formes qui conduisent tous vers un boss différent à affronter.</desc>
+		<image>./downloaded_images/Mega Man X3.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Mickey Mania (Europe).zip</path>
+		<name>Mickey Mania</name>
+		<desc>Mickey Mania : The Timeless Adventures of Mickey Mouse sur Super Nintendo est un jeu de plates-formes. Le joueur incarne Mickey Mouse dans sept niveaux inspirés des dessins animés les plus célèbres de son histoire.</desc>
+		<image>./downloaded_images/Mickey Mania.jpg</image>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Mortal Kombat (Europe) (Rev 1).zip</path>
+		<name>Mortal Kombat 1</name>
+		<desc>Battez vos adversaires pour défier le guerrier Shokan nommé Goro, champion du tournoi depuis plus de 500 ans. Adaptation du célébrissime jeu d'arcade, Super Nintendo sur Game Gear vous permet d'incarner 8 prétendants à la victoire finale, dont les protégés du seigneur Raiden, seuls remparts contre la menace qui pèse sur le Royaume de la Terre.</desc>
+		<image>./downloaded_images/Mortal Kombat.jpg</image>
+		<releasedate>19930913T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Mortal Kombat II (Europe) (Rev 1).zip</path>
+		<name>Mortal Kombat 2</name>
+		<desc>Mortal Kombat II, est un jeu de combat sur Super Nintendo. Combos, fatalités et autres coups spéciaux, tels sont les ingrédients qui fondent le succès d'un jeu réputé pour la violence de ses affrontements. Le joueur incarne l'un des 12 personnages et doit vaincre un par un l'ensemble de ses concurrents directs pour gagner le tournoi et mettre un terme au règne du maléfique Shao Kahn.</desc>
+		<image>./downloaded_images/Mortal Kombat II.jpg</image>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game id="2825" source="theGamesDB.net">
+		<path>./Mortal Kombat 3 (Europe).zip</path>
+		<name>Mortal Kombat 3</name>
+		<desc>Shao Kahn est sorti vainqueur du précédent Mortal Kombat. Le Royaume de la Terre n'est plus. Vous devrez dans Mortal Kombat 3, affronter à nouveau les poulains de Shang Tsung, ainsi qu'une redoutable adversaire, la Reine Sindel. De nouveaux mouvements et la possibilité de courir ont été ajoutés à cet opus qui clôt la trilogie sur Super Nintendo.</desc>
+		<image>./downloaded_images/Mortal Kombat 3.jpg</image>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Williams</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game id="3231" source="theGamesDB.net">
+		<path>./Ninjawarriors - The New Generation (Europe).zip</path>
+		<name>Ninja Warriors</name>
+		<desc>Le tyran Benglar se sert de son pouvoir pour laver le cerveau de tous ses prisonniers, et il semble désormais invincible. Cependant, la Résistance a trouvé une nouvelle arme, des machines capables de penser et de combattre : les Ninjas Warriors. Dans le beat'em all The Ninja Warriors sur Super Nintendo, le joueur peut choisir parmi 3 héros : Ninja, Kunoichi ou Kamaitachi. Chacun se joue différemment et possède une super-attaque personnelle.</desc>
+		<image>./downloaded_images/Ninjawarriors.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Mindscape Inc.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Prince of Persia (Europe).zip</path>
+		<name>Prince of Persia</name>
+		<desc>Prince of Persia sur Super Nintendo est un jeu de plates-formes se déroulant dans le Moyen-Orient. Le joueur contrôle le Prince de Perse qui peut marcher, courir, se baisser, sauter, s'accrocher et combattre à l'épée. Le but est de terminer tous les niveaux pour libérer la princesse dans le temps imparti, c'est-à-dire une heure. Chaque niveau consiste en un donjon de plus en plus grand et parsemé d'embûches (précipices, dalles se dérobant sous les pieds, pics sortant du sol).</desc>
+		<image>./downloaded_images/Prince of Persia.jpg</image>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Brøderbund</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Starwing (Europe) (Rev 1).zip</path>
+		<name>StarWing</name>
+		<desc>StarWing, ou StarFox dans la version originale, est le premier jeu à apporter des graphismes en 3D sur Super Nintendo. Aux commandes des Arwing, les nouveaux vaisseaux de l'équipe Star Fox, vous devrez défendre le système planétaire Lylat contre les troupes de l'Empereur Andross. Vous êtes pour cela accompagné de trois autres vaisseaux de qui pourront vous venir en aide ou au contraire avoir besoin de votre secours. Une fois un ami éliminé, il le reste malheureusement pour toute la partie.</desc>
+		<image>./downloaded_images/Starwing.jpg</image>
+		<releasedate>19930603T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+	    <path>./Street Fighter II (Europe).zip</path>
+	    <name>Street Fighter 2</name>
+	    <desc>Street Fighter II sur Super Nintendo est le deuxième épisode du jeu de combat sorti en 1988 sur diverses consoles et bornes d'arcade. Vous avez le choix parmi huit personnages ayant chacun son propre style de jeu et ses propres techniques spéciales. Dans le mode solo, vous devez affronter les sept autres personnages plus quatre boss cachés. A deux, chacun choisit son personnage pour tenter d'éliminer l'autre.</desc>
+	    <image>./downloaded_images/Street Fighter II (Europe)-image.jpg</image>
+	    <rating>0.625</rating>
+	    <releasedate>19920610T000000</releasedate>
+	    <developer>Capcom</developer>
+	    <publisher>Capcom</publisher>
+	    <genre>Fighting</genre>
+	    <players>2</players>
+	    <region>Europe</region>
+	    <romtype>Original</romtype>
+  	</game>
+	<game>
+		<path>./Street Fighter II Turbo (Europe) (Rev 1).zip</path>
+		<name>Street Fighter 2 Turbo</name>
+		<desc>Street Fighter II Turbo : Hyper Fighting sur Super Nintendo vous lance dans l'arène pour cette nouvelle déclinaison de la saga de Capcom. Dans ce jeu de baston, vous retrouvez huit combattants de légende ainsi que les boss jouables (Balrog, Sagat, Vega et M. Bison). Maîtrisez chacune des techniques propres aux personnages dans ce titre à la jouabilité nerveuse et aux coups ravageurs.</desc>
+		<image>./downloaded_images/Street Fighter II Turbo.jpg</image>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Street Racer (Europe) (Rev 1).zip</path>
+		<name>Street Racer</name>
+		<desc>Street Racer est un jeu de courses sur Super Nintendo dans lequel tous les coups sont permis. Huit personnages sont proposés, avec des caractéristiques différentes pour leur véhicule. Certains seront plus rapides alors que d'autres seront plus résistants aux attaques adverses. En plus des courses où l'important est de gagner, quelle que soit la manière, d'autres modes sont disponibles en solo ou à plusieurs : Rumble (bagarre) et Soccer (football).</desc>
+		<image>./downloaded_images/Street Racer.jpg</image>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Vivid Image</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Sunset Riders (Europe).zip</path>
+		<name>Sunset Riders</name>
+		<desc>Sunset Riders vous envoie vous et votre Super Nintendo dans le Far West américain, à l'époque des cow-boys et des chasseurs de prime. Richard Rose, l'un des plus grands bandits, a décidé de tout contrôler pour devenir le maître de l'Ouest. Seul les Sunset Riders, quatre justiciers rapides de la gâchette, peuvent l'en empêcher. Vous avez le choix parmi Steve, Bob, Billy et Cormano pour éliminer tous les sous-fifres de Rose. Chacun possède une arme différente, revolver ou fusil.</desc>
+		<image>./downloaded_images/Sunset Riders.jpg</image>
+		<releasedate>19931005T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Super Bomberman 3 (Europe).zip</path>
+		<name>Super Bomberman 3</name>
+		<desc>Le poseur de bombe de Hudson revient dans Super Bomberman 3 sur Super Nintendo. Le troisième épisode de la série apporte beaucoup de nouveautés, à commencer par la possibilité de jouer à deux dans le mode histoire. Des montures font également leur apparition, sous forme de kangourous de différentes couleurs, en fonction des capacités dont ils disposent. A noter que le Super MultiTap permet désormais de jouer à cinq en utilisant le port de la manette 2.</desc>
+		<image>./downloaded_images/Super Bomberman 3.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Super Castlevania IV (Europe).zip</path>
+		<name>Super Castlevania 4</name>
+		<desc>Super Castlevania IV sur Super Nintendo est le quatrième épisode de la saga gothique de Konami. Vous contrôlez Simon Belmont, armé de son fouet légendaire mais aussi de pieux, boomerangs et autres haches. Bien que l'ennemi principal soit le seigneur du Mal Dracula, les ennemis ne se limitent pas aux vampires mais à toutes sortes de créatures horribles comme les zombies et les squelettes.</desc>
+		<image>./downloaded_images/Super Castlevania IV.jpg</image>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars (Europe).zip</path>
+		<name>Super Mario All-Stars</name>
+		<desc>Super Mario All-Stars est une compilation sur Super Nintendo de tous les jeux de plates-formes comprenant Mario sortis sur Nintendo. Y figurent donc : Super Mario Bros. 1, 2 et 3 ainsi que Super Mario Bros. : The Lost Levels, jusqu'alors jamais édité en Europe. Plus qu'une simple compilation, le jeu apporte des graphismes améliorés et la possibilité de sauvegarder sa progression. Les nostalgiques de la première console Nintendo ont de quoi être satisfaits.</desc>
+		<image>./downloaded_images/Super Mario All-Stars.jpg</image>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Super Mario Kart (Europe).zip</path>
+		<name>Super Mario Kart</name>
+		<desc>Super Mario Kart sur Super Nintendo est un jeu de courses reprenant l'univers et les personnages de Mario. Après avoir choisi un pilote parmi les huit proposés, lancez-vous dans les quatre coupes différentes pour essayer d'atteindre la plus haute marche du podium. Grâce à des bonus ramassés sur le circuit, tous les coups sont permis, à commencer par le largage de peaux de banane et l'envoi de carapaces. Le mode Battle permet d'ailleurs d'affronter les autres à coup de carapaces.</desc>
+		<image>./downloaded_images/Super Mario Kart.jpg</image>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Super Mario World (Europe) (Rev 1).zip</path>
+		<name>Super Mario World 1</name>
+		<desc>Super Mario World sur Super Nes vous fait incarner les deux super plombiers Mario et Luigi, à la poursuite de Bowser qui a kidnappé pour la énième fois la princesse Peach. Exploitez de nouveaux objets tels que la plume permettant aux héros de planer pendant un court instant, et faites surtout connaissance avec le petit dinosaure vert Yoshi qui apparaît avec sa tribu pour la toute première fois dans la série.</desc>
+		<image>./downloaded_images/Super Mario World.jpg</image>
+		<releasedate>19901121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+    	<path>./Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 1).zip</path>
+    	<name>Super Mario World 2</name>
+    	<desc>Super Mario World 2 : Yoshi's Island sur Super Nintendo nous fait découvrir l'origine des frères Mario et Luigi. Alors qu'une cigogne amène les deux bébés à leurs parents, le sorcier Kamek la heurte afin de l'empêcher d'arriver à destination car il a prédit que Mario et Luigi poseraient problème à son maître Bowser dans le futur. Kamek arrive à kidnapper Luigi mais Mario échoue sur l'île des Yoshis. Ces derniers s'organisent pour que Mario retrouve son frère.</desc>
+    	<image>./downloaded_images/Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 1)-image.jpg</image>
+	    <releasedate>19951004T000000</releasedate>
+	    <developer>Nintendo</developer>
+	    <publisher>Nintendo</publisher>
+	    <genre>Platform</genre>
+	    <players>1</players>
+	    <region>Europe</region>
+	    <romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Super Metroid (Europe) (En,Fr,De).zip</path>
+		<name>Super Metroid</name>
+		<desc>Retrouvez la chasseuse de primes intergalactique Samus Aran dans Super Metroid sur Super Nintendo. De nouvelles aventures l'attendent suite au vol du dernier Métroïde et la voilà repartie sur la planète Zèbes avec un tout nouvel arsenal incluant le rayon grappin et la vision à rayon X. Utilisez votre laser, des missiles et des bombes pour venir à bout des boss et restaurer ainsi un semblant de paix.</desc>
+		<image>./downloaded_images/Super Metroid.jpg</image>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Super Street Fighter II (Europe).zip</path>
+		<name>Super Street Fighter 2</name>
+		<desc>Super Street Fighter II : The New Challengers est une variante de Street Fighter II sortie en 1993 sur Super Nintendo. Quatre nouveaux personnages sont au programme, en plus des boss cachés dans le jeu original, portant le nombre de personnages à un total de 16. Les fonctions multijoueurs apportent également des nouveautés, avec le mode élimination et le mode tournoi à huit. Enfin, il est toujours possible de jouer en solo, en affrontant un à un, tous les personnages du jeu.</desc>
+		<image>./downloaded_images/Super Street Fighter II.jpg</image>
+		<releasedate>19940601T000000</releasedate>
+		<developer>CAPCOM</developer>
+		<publisher>CAPCOM</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Teenage Mutant Hero Turtles IV - Turtles in Time (Europe).zip</path>
+		<name>Tortues Ninja 4</name>
+		<desc>Teenage Mutant Ninja Turtles IV : Turtles In Time est un jeu d'action sur Super Nintendo.Choisissez votre Tortue Ninja préférée (Leonardo, Raphael, Donatello ou Michelangelo) et débarrassez-vous de vos ennemis à travers le temps.Jouable seul ou avec un ami en coopération, Turtles in Time vous offre la possibilité d'user de vos armes pour défier à nouveau le puissant Shredder (qui a une fois de plus kidnappé April).</desc>
+		<image>./downloaded_images/Teenage Mutant Hero Turtles IV - Turtles in Time.jpg</image>
+		<releasedate>19920801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<region>Europe</region>
+		<romtype>Original</romtype>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - A Link to the Past (France).zip</path>
+		<name>The Legend of Zelda : A Link to the Past</name>
+		<desc>The Legend of Zelda : A Link to the Past est un jeu d'aventure sur Super Nintendo dans lequel vous incarnez Link, jeune garçon d'Hyrule. Vous avez pour mission d'aller sauver la princesse Zelda des griffes du sorcier Agahnim avant qu'il ne libère le sceau des sept sages qui sépare le monde de la lumière et celui des ténèbres. Pour cela vous devez traverser de nombreux donjons remplis de monstres et trouver dans chacun d'eux des objets vous permettant de progresser dans votre quête.F</desc>
+		<image>./downloaded_images/Legend of Zelda, The - A Link to the Past.jpg</image>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<region>France</region>
+		<romtype>Original</romtype>
+	</game>
+</gameList>
