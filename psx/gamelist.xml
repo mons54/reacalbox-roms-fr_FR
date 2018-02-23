@@ -5,7 +5,7 @@
 		<name>Crash Bandicoot</name>
 		<desc>Crash Bandicoot sur Playstation est un jeu de plates-formes dans lequel vous incarnez un animal peu commun et complètement loufoque. L'ami Crash, c'est son petit nom, va devoir traverser 32 niveaux répartis en trois îles pour lutter contre l'infâme Dr Neo Cortex. Affrontez les ennemis en tournoyant sur vous-même comme une toupie et ramassez les diamants de chaque tableau.</desc>
 		<image>./images/crash-bandicoot.jpg</image>
-		<releasedate>19961009T000000</releasedate>
+		<releasedate>19960910T000000</releasedate>
 		<developer>Naughty Dog</developer>
 		<publisher>Sony</publisher>
 		<genre>Plate-Forme</genre>
@@ -18,7 +18,7 @@
         <name>Crash Team Racing</name>
         <desc>Crash Team Racing sur Playstation est un jeu de courses dans lequel vous retrouvez les personnages et l'univers de Crash Bandicoot. A bord de kartings armés jusqu'aux essieux, frayez-vous un chemin sur la première marche du podium. Seul ou en équipe, participez également à des mini-jeux comme des combats en arène, ou faites des courses simples pour battre le meilleur temps.</desc>
         <image>./images/crashteamracing.jpg</image>
-        <releasedate>19991020T000000</releasedate>
+        <releasedate>19992010T000000</releasedate>
         <developer>Naughty Dog</developer>
         <publisher>Sony</publisher>
         <genre>Course</genre>
@@ -31,7 +31,7 @@
         <name>Resident Evil 3</name>
         <desc>Le survival horror Resident Evil 3 : Nemesis sur Playstation se déroule durant les événements de Resident Evil 2. Vous incarnez cette fois-ci, Jill Valentine, et devez vous échapper vivant de Raccoon City, ravagée par les zombies. Nemesis, le monstre exterminateur des derniers survivants est à vos trousses.</desc>
         <image>./images/residentevil3.jpg</image>
-        <releasedate>20000218T000000</releasedate>
+        <releasedate>20001802T000000</releasedate>
         <developer>Eidos Interactive</developer>
         <publisher>Capcom</publisher>
         <genre>Survival-Horror</genre>
@@ -44,7 +44,7 @@
 		<name>Tekken 3</name>
 		<desc>Fin du King of Iron Fist Tournament 2. Heihachi a vaincu Kazuya et reprend la tête de Mishima Zaibatsu. Un jour, il entend parler d'un ancien dieu mexicain, Ogre, qui serait attiré par les âmes fortes. Pour l'appâter, Heihachi décide de lancer la troisième édition du tournoi mondialement connu afin que les combattants servent de leurres. Tel est le début de Tekken 3, jeu de combat sur Playstation.</desc>
 		<image>./images/tekken3.jpg</image>
-		<releasedate>19970320T000000</releasedate>
+		<releasedate>1997203T000000</releasedate>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
 		<genre>Combat</genre>
