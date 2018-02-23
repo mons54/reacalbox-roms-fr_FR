@@ -5,6 +5,7 @@
         <name>SNK vs. Capcom: SVC Chaos</name>
         <desc>SVC Chaos : SNK vs. Capcom est un jeu de combat mettant en scène les guerriers des deux célèbres séries Street Fighter et King of Fighters.</desc>
         <image>./images/svcsplus.png</image>
+        <releasedate>20030700T000000</releasedate>
         <developer>SNK Playmore</developer>
         <publisher>Ignition Entertainment</publisher>
         <genre>Combat</genre>
@@ -15,6 +16,7 @@
         <name>Street Fighter II': Champion Edition</name>
         <desc>treet Fighter II': Champion Edition est un jeu de combat sorti en 1988 sur diverses consoles et bornes d'arcade. Vous avez le choix parmi des personnages ayant chacun son propre style de jeu et ses propres techniques spéciales.</desc>
         <image>./images/sf2ce.png</image>
+        <releasedate>19920300T000000</releasedate>
         <developer>Capcom</developer>
         <publisher>Capcom</publisher>
         <genre>Combat</genre>
